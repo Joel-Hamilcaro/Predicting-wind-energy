@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
-*Project carried out in pairs as part of the "Machine Learning" course* 
+*Project carried out in pairs as part of the "Machine Learning" course*    
 **Authors : [Joël Hamilcaro](https://github.com/Joel-Hamilcaro/) and [Jie Tu](https://github.com/jie-tu)**
 
 ## About 
