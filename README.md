@@ -13,50 +13,50 @@ For this, we had two data sets, each corresponding to a particular wind turbine.
 
 ## Summary 
 
-1  Introduction  
-1.1  Defining the problem  
-2  Importing the required librairies  
-3  Data import  
-3.1  Importing data  
-3.2  Train-test split  
-4  Data exploration  
-4.1  Quick overview  
-4.2  Distribution analysis  
-5  Data preprocessing  
-5.1  Data type  
-5.2  Dealing with missing values  
-5.2.1  Empty lines  
-5.2.2  Lines with missing values  
-5.3  What about negative power  
-5.4  Standardization  
-5.5  Preprocessing summary  
-6  A first model  
-6.1  Models creation and training  
-6.2  Testing our models  
-6.2.1  Pre-processing of test data  
-6.2.2  Making predictions  
-6.3  Performance evaluation.  
-6.3.1  Defining the metrics  
-6.3.2  Compute scores  
-6.3.3  Plot predictions  
-6.3.4  The K-Folds technique  
-6.4  Choice of hyper-parameters  
-6.4.1  Tree pruning  
-6.4.2  Number of trees  
-6.4.3  Automatic search for hyperparameters  
-7  Model comparison  
-7.1  Linear Regressors  
-7.1.1  Linear Regression  
-7.1.2  Ridge Regression  
-7.1.3  Lasso Regression  
-7.1.4  SGD Regression  
-7.2  KNN Regressor  
-7.3  Decision Tree  
-7.4  ExtraTree Regressor  
-7.5  AdaBoost Regressor  
-7.6  Gradient Boosting  
-8  Conclusion  
-8.1  Difficulties encountered  
-8.2  Best predictive performance  
-8.3  Comparison of wind turbines  
-8.4  Influence of hyperparameters  
+- 1  Introduction  
+  - 1.1  Defining the problem  
+- 2  Importing the required librairies  
+- 3  Data import  
+  - 3.1  Importing data  
+  - 3.2  Train-test split  
+- 4  Data exploration  
+  - 4.1  Quick overview  
+  - 4.2  Distribution analysis  
+- 5  Data preprocessing  
+  - 5.1  Data type  
+  - 5.2  Dealing with missing values  
+    - 5.2.1  Empty lines  
+    - 5.2.2  Lines with missing values  
+  - 5.3  What about negative power  
+  - 5.4  Standardization  
+  - 5.5  Preprocessing summary  
+- 6  A first model  
+  - 6.1  Models creation and training  
+  - 6.2  Testing our models  
+    - 6.2.1  Pre-processing of test data  
+    - 6.2.2  Making predictions  
+  - 6.3  Performance evaluation.  
+    - 6.3.1  Defining the metrics  
+    - 6.3.2  Compute scores  
+    - 6.3.3  Plot predictions  
+    - 6.3.4  The K-Folds technique  
+  - 6.4  Choice of hyper-parameters  
+    - 6.4.1  Tree pruning  
+    - 6.4.2  Number of trees  
+    - 6.4.3  Automatic search for hyperparameters  
+- 7  Model comparison  
+  - 7.1  Linear Regressors  
+    - 7.1.1  Linear Regression  
+    - 7.1.2  Ridge Regression  
+    - 7.1.3  Lasso Regression  
+    - 7.1.4  SGD Regression  
+  - 7.2  KNN Regressor  
+  - 7.3  Decision Tree  
+  - 7.4  ExtraTree Regressor  
+  - 7.5  AdaBoost Regressor  
+  - 7.6  Gradient Boosting  
+- 8  Conclusion  
+  - 8.1  Difficulties encountered  
+  - 8.2  Best predictive performance  
+  - 8.3  Comparison of wind turbines  
+  - 8.4  Influence of hyperparameters  
