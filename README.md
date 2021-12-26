@@ -7,7 +7,7 @@
 
 ### Browser display 
 
-- [Jupyter Notebook Viewer](https://nbviewer.org/github/Joel-Hamilcaro/Classification-de-vetements/blob/main/Joel-HAMILCARO_Jie-TU_fashion_mnist.ipynb)   
+- [Jupyter Notebook Viewer](https://nbviewer.org/github/Joel-Hamilcaro/Predicting-wind-energy/blob/main/notebook_dm1eol-HAMILCARO_Joel-TU_Jie.ipynb)   
 
 ## About 
 
